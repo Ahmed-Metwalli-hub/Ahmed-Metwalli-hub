@@ -5,7 +5,7 @@ Frontend Developer (React)
 I build responsive web applications using React and modern frontend tools.
 
 ## 🛠 Tech Stack
-React.js | JavaScript | Tailwind CSS | Redux | REST APIs
+React.js | JavaScript | Tailwind CSS | Redux Toolkit | REST APIs
 
 ## 📌 Projects
 - E-Commerce App (Dark Look)
